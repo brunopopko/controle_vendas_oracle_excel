@@ -45,8 +45,6 @@ controle_vendas_oracle_excel/
 ├── queries_relatorios.sql
 └── trg_atualiza_valor_total.sql
 
-yaml
-Copiar código
 
 ---
 
